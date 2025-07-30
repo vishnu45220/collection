@@ -1,4 +1,4 @@
-package CollectionsChallenges;
+package Day6CollectionsChallenges;
 
 import java.util.*;
 
